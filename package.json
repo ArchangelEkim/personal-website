@@ -1,5 +1,29 @@
 {
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal Website application showing a portfolio of work",
+  "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArchangelEkim/personal-website.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "Michael Clayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArchangelEkim/personal-website/issues"
+  },
+  "homepage": "https://github.com/ArchangelEkim/personal-website#readme"
 }
