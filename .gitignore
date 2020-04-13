@@ -1,4 +1,4 @@
 node_modules
-.bat
-.sh
+*.bat
+*.sh
 package-lock.json
